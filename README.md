@@ -21,6 +21,6 @@ It’s built with **pygame**, **shapely**, and **scipy**.
 Clone the repo and install dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/egeardic/Voronoi-Cells.git
+cd Voronoi-Cells
 pip install -r requirements.txt
