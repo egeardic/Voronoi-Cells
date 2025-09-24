@@ -1,4 +1,3 @@
-```markdown
 # Interactive Bounded Voronoi Diagram
 
 This project is a Python application that lets you **create, move, and delete points** in real-time, generating a **bounded Voronoi diagram** where each cell is uniquely colored.  
@@ -25,10 +24,3 @@ Clone the repo and install dependencies:
 git clone <your-repo-url>
 cd <your-repo-folder>
 pip install -r requirements.txt
-
-```
-
-```markdown
-python voronoi.py
-
-```
