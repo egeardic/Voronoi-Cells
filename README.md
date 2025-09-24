@@ -24,3 +24,8 @@ Clone the repo and install dependencies:
 git clone https://github.com/egeardic/Voronoi-Cells.git
 cd Voronoi-Cells
 pip install -r requirements.txt
+
+```sh
+python voronoi.py
+
+```
